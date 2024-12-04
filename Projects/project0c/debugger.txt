@@ -1,0 +1,48 @@
+Programming Assignment #0, Part C
+
+Run the craps program controlled by the Debugger Perspective, as specified in the
+programming assignment, to answer each the following questions. When asked to
+show dice "throws" each throw is the sum of the two dice values, not the values
+of the individual dice. So in 2 and 6, if the throws were 8 (4+4), 6(2+4), and
+7(3+4), losing by not making the point 8, you would write just 8, 6, 7 (showing
+just the sums).
+
+Answer each question briefly, with the required numbers (using no or few words).
+When questions have multiple answers (e.g., 3, 4, 5), separate your answers by
+semicolons.
+
+
+1. What number game is the first to be lost on one throw
+   (e.g., a throw of 2, 3, or 12)? There is one answer to this question.
+
+Answer: 4
+
+2. What are all the dice throws in the ninth game (list them in the order
+   thrown)? There is one answer to this question.
+
+Answer: 5, 4, 9, 6, 11, 8, 4, 3, 8, 6, 10, 3, 3, 6, 3, 5
+
+3. What number game is the first to be won on a throw of 7? 11?
+   There are two answers to this question (one for 7, one for 11).
+
+Answer: 7; 1
+
+4. What number game is the first to be lost on a throw of 2? 3? 12?
+   There are three answers to this question (one for 2, one for 3, one for 12).
+
+Answer: 4; 10; 95
+
+5. What number game is the first to be won by making a point of 6? 10?
+   There are two answers to this question (one for 6, one for 10).
+
+Answer: 26; 57
+
+6. What are all the dice throws in the 103rd game (list them in the order
+   thrown)? There is one answer to this question.
+
+Answer: 8, 3, 8
+
+7. In what game number does the 712th win occur? There is one answer to this
+   question.
+
+Answer: 1504
